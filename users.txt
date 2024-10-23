@@ -1,0 +1,1 @@
+[{"user_id": 1715564768, "username": "@RIYAZ_5U", "valid_until": "2025-10-13 07:44:37.636151", "current_date": "2024-10-13 06:44:37.636166", "plan": "Gold Premium"}]
