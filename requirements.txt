@@ -1,5 +1,8 @@
-
-telebot
 requests
+pyTelegramBotAPI
 asyncio
 logging
+telebot
+python-telegram-bot
+Flask
+gunicorn
